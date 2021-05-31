@@ -1,0 +1,128 @@
+#titulo{
+	/*border: 1px solid #100;
+	background: #3498db;*/
+	/*height: 250%;
+	width: 350%:*/
+	background-image: url(../img/fond.png);
+	background-size:500% 550%;
+	
+
+	
+    }
+
+
+
+h1{
+	text-align: center;
+	color: #fff;
+}
+h2{
+	text-align: center;
+	font-size: 150%;
+	color: #fff;
+
+}
+
+.contact {
+	font-size: 120%;
+}
+
+#izquierdo-menu{
+
+	float: left;
+    border: none; 
+	height: 1000px;
+	width: 220px;	
+	text-align: left; 
+	font-size: 100%;
+	font-family: sans-serif;
+	background:  #DEC9C5;
+
+
+
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#izquierdo-menu ul {
+	list-style: none;
+}
+
+.download {
+	align-items: center;
+	text-align: center;
+	
+}
+a {
+	text-decoration: rgb(73, 16, 16);
+	color:rgb(7, 48, 122);
+	font-size: 24px;
+	font-weight: 200;
+	
+
+
+
+}
+#izquierdo-menu .menu li a {
+	color:#494949;
+	display: block;
+	padding: 10px 5px;
+	margin: 0px;
+	background: #D5D3B9;
+}
+ .menu {
+	
+	margin-right: 0px; 
+	margin-left: 0px;
+}
+#izquierdo-menu	.menu .icon-down-open{
+	float: right;
+	margin-left: 10px; 
+
+	
+}
+#izquierdo-menu .menu li a:hover {
+	background: #3F60BE;
+	color:#fff;
+	}
+#izquierdo-menu .menu .activado > a {
+	background: #3F60BE;
+	color:#fff;
+}
+#izquierdo-menu .menu ul li a {
+	background: #424242;
+	color:#e9e9e9;
+}
+#izquierdo-menu .menu ul {
+	display: none;
+		}
+ #parrafo{
+ 	font-size: 130%;
+ 	color: rgb(0, 0, 0);
+ 	text-align: justify;
+	margin: 1em;
+
+ }
+ .card {
+	
+	margin-left: 26%;
+  }
+ 
+  
+  /* Add some padding inside the card container */
+  .container {
+	padding: 6px 20px;
+  }
+
+
+  
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+	border-radius: 5px 5px 0 0;
+  }
